@@ -13,7 +13,6 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'https://github.com/scrooloose/nerdtree.git'
 Plugin 'https://github.com/scrooloose/syntastic.git'
 Plugin 'bling/vim-airline'
-Plugin 'https://github.com/Valloric/YouCompleteMe.git'
 Plugin 'airblade/vim-gitgutter'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
@@ -23,6 +22,7 @@ Plugin 'tpope/vim-fugitive'
 "Plugin 'L9'
 " Git plugin not hosted on GitHub
 Plugin 'git://git.wincent.com/command-t.git'
+Plugin 'mattn/emmet-vim'
 " git repos on your local machine (i.e. when working on your own plugin)
 "Plugin 'file:///home/gmarik/path/to/plugin'
 " The sparkup vim script is in a subdirectory of this repo called vim.
